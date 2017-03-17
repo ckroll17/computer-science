@@ -9,7 +9,7 @@ This week, we were told about quite a few facets of computer science. Algorithms
 The concept of recursion is simple on its face. Basically, you call a function until you don't. This process starts at the beginning, or the root. When you pose a question, the proocess begins looking for the answer through all of the levels of information until it finds the answer, then travels back through maintaining all of the relevant information so that it can present the answer to you. From what I can tell, everything from IPs, to addresses will use recursion.
 
 ### A litte about Algorithms
-![Image of a while loop](https://goo.gl/wuv9oL)
+![Image of a while loop](https://goo.gl/wuv9oL#center)
 
 The word sounds complex, but is it? Sure, it can be, but all it really is is a set of instructions. A problem solving process that allows you to find a solution within a certain amount of time.
 
