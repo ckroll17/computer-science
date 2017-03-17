@@ -28,7 +28,6 @@ How efficient does something work in its worst case? That is the gist of Big O N
 
 ![Image of Data Structures](https://goo.gl/pCyB2d)
 
-Building Blocks
 I may be dating myself here, but I wanted to give an understanding of the concept of data structures, and this one helped me understand. If you have ever used a telephone book to look up a person's phone number, you were using a sorting method.
 You want to have a cup of coffee with Jane Doe, but just can't seem to remember her number. You grab the phone book to find her number. How do you search? You could start on page one and continue to scan each name until you got to her name, but that wouldn't be very time efficient. Instead, you know that the names are listed alphabetically by last name. You pick up the book and open it to about where you think her name will be. Then, if you find that you opened it to the "F's", you turn the pages back until you reach the "D" section and begin scanning until you reach Doe, Jane. This is data structures, sorting methods.
 
