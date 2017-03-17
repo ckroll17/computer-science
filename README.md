@@ -20,6 +20,6 @@ Algorithms can be difficult, but just like any skill, with practice, they begin 
 
 ### Big O Notation and the bit I know
 
-![Image of Big O Notation](https://goo.gl/rBEPaM)
+![Image of Big O Notation](https://goo.gl/rBEPaM#center)
 
 How efficient does something work in its worst case? That is the gist of Big O Notation. This process is here to help you strive to build the most efficient version of your coding structure. There are multiple ways to do everything, but Big O doesn't care. Its only concerned with the worst possible outcome. It reminds me of the old saying "you're only as strong as your weakest link".
